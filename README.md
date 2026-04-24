@@ -1,3 +1,3 @@
 # DHTestRepo
 This is my first repository on github
-<br>Author : Dhananjay Harawade
+<br>Author : Dhananjay Harawade (tester)
